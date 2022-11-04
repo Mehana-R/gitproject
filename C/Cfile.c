@@ -18,3 +18,10 @@ int sub()
   int e = 30;
   int f = d-e;
 }
+
+int div()
+{
+  int p = 20;
+  int q = 2;
+  int e = p/q
+}
