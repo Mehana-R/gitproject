@@ -25,3 +25,11 @@ int div()
   int q = 2;
   int e = p/q
 }
+
+int mul()
+{
+  int a= 2;
+  int b= 10;
+  int c = a*b;
+}
+    
